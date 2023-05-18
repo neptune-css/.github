@@ -8,10 +8,17 @@
 
 ## Whats new?
 
-#### Added:
+#### Added
 
-- [Links](#links)
-- [Spinner](#spinner)
+- Added --highlight-secondary color variable
+- Added password input component
+- Added phone input component
+- Added url input component
+
+#### Changed
+
+- Changed text-decoration in typography.css
+- Changed .highlighted-secondarys color variable
 
 ## Getting started
 
